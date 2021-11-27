@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Frasquito Kivits",
+      "email": "fkivits0@google.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Brent Birks",
+      "email": "bbirks1@parallels.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Jermaine Bloyes",
+      "email": "jbloyes2@forbes.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Bard Rockcliffe",
+      "email": "brockcliffe3@cpanel.net"
+    },
+    {
+      "id": 5,
+      "first_name": "Liana Bleythin",
+      "email": "lbleythin4@who.int"
+    },
+    {
+      "first_name": "Haja",
+      "email": "haja@gmail.com",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Bad News Bears",
+      "body": "sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci",
+      "likes": 1
+    },
+    {
+      "id": 2,
+      "title": "Hunted, The",
+      "body": "lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur",
+      "likes": 2
+    },
+    {
+      "id": 3,
+      "title": "Indian in the Cupboard, The",
+      "body": "amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim",
+      "likes": 3
+    },
+    {
+      "id": 4,
+      "title": "Tale of Two Cities, A",
+      "body": "nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque",
+      "likes": 4
+    },
+    {
+      "id": 5,
+      "title": "Slam Dunk Ernest",
+      "body": "maecenas leo odio condimentum id luctus nec molestie sed justo",
+      "likes": 5
+    }
+  ]
+}
